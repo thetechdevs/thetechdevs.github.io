@@ -36,4 +36,4 @@
    <a href="https://github.com/Mutasim-Shatil">
     <img src='https://avatars2.githubusercontent.com/u/70066678?s=400&u=2d6dc93ad9706c95c1f8dc336cd86ccf63927f69&v=4' height="40px" width="40px" style="border-radius: 50%; border: 1px solid black;" />
   </a>
-</p>
+
