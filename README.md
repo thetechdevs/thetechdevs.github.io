@@ -7,7 +7,6 @@
   Github Organization: https://github.com/thetechdevs
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/deployments/thetechdevs/thetechdevs/master?label=website" height="20px" alt="deployments" />
   <img src="https://img.shields.io/github/repo-size/thetechdevs/thetechdevs" height="20px" alt="repo-size" />
   <img src="https://img.shields.io/github/languages/top/thetechdevs/thetechdevs" height="20px" alt="languages" />
 </p>
