@@ -2,7 +2,7 @@
   <img src='https://avatars1.githubusercontent.com/u/64302236?s=200&v=4' height="100px" alt="logo" />
 </p>
 
-<h3 align="center">Code World</h3>
+<h3 align="center">The Tech Devs</h3>
 <p align="center">
   Github Organization: https://github.com/thetechdevs
 </p>
