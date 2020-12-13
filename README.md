@@ -13,6 +13,9 @@
 - Bootstrap
 - JavaScript
 - ReactJs
+- NodeJs
+- React Native
+- Flutter
 - Hosting (cPanel, Github pages, Netlify, Firebase, etc)
 
 ### Members
