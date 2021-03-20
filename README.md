@@ -3,9 +3,10 @@
 </p>
 
 <h3 align="center">The Tech Devs</h3>
-<p align="center">
-  Github Organization: https://github.com/thetechdevs
-</p>
+<p align="center">Website: http://thetechdevs.com</p>
+<p align="center">Github Organization: https://github.com/thetechdevs</p>
+<p align="center">ThemeForest: https://themeforest.net/user/thetechdevs</p>
+<p align="center">Email: thetechdevs@gmail.com, info@thetechdevs.com</p>
 
 ## Tech/framework we use
 - HTML
