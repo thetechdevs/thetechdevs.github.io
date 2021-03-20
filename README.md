@@ -5,6 +5,7 @@
 <h3 align="center">The Tech Devs</h3>
 <p align="center">Website: http://thetechdevs.com</p>
 <p align="center">Github Organization: https://github.com/thetechdevs</p>
+<p align="center">Facebook: https://www.facebook.com/thetechdevs.bd</p>
 <p align="center">ThemeForest: https://themeforest.net/user/thetechdevs</p>
 <p align="center">LinkedIn: https://www.linkedin.com/company/thetechdevs</p>
 <p align="center">Email: thetechdevs@gmail.com, info@thetechdevs.com</p>
