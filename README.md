@@ -15,6 +15,7 @@
 - Material-UI
 - SASS
 - ReactJs
+- NextJs
 - NodeJs
 - React Native
 - Flutter
