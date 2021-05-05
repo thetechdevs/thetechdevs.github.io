@@ -22,7 +22,7 @@
 - NodeJs
 - React Native
 - Flutter
-- Hosting (cPanel, Github pages, Netlify, Firebase, etc)
+- Hosting (cPanel, Github pages, Netlify, Firebase, Vercel, Heroku etc)
 
 ### Members
 <p align="center">
