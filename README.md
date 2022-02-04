@@ -1,5 +1,6 @@
 <p align="center">
-  <img src='https://avatars1.githubusercontent.com/u/64302236?s=200&v=4' height="100px" alt="logo" />
+  <!-- <img src='https://avatars1.githubusercontent.com/u/64302236?s=200&v=4' height="100px" alt="logo" /> -->
+  <img src='./TheTechDevsLogo.png' height="100px" alt="logo" />
 </p>
 
 <h3 align="center">The Tech Devs</h3>
@@ -44,9 +45,9 @@
     <img src='https://avatars.githubusercontent.com/u/62938476?s=460&u=3eac5d725ac6eb1b22d7ea4585292b473d08d3c2&v=4' height="40px" width="40px" style="border-radius: 50%; border: 1px solid black;" >
   </a> -->
   
-  <!-- <a href="https://github.com/0xNaim">
+  <a href="https://github.com/0xNaim">
     <img src='https://avatars.githubusercontent.com/u/60999982?v=4' height="40px" width="40px" style="border-radius: 50%; border: 1px solid black;" >
-  </a> -->
+  </a>
   
   <a href="https://github.com/dev-ashik">
     <img src='https://avatars0.githubusercontent.com/u/61373940?s=460&u=e0422a3e38f2c1febe9ff7b603a27ce15dd70e33&v=4' height="40px" width="40px" style="border-radius: 50%; border: 1px solid black;" >
