@@ -1,3 +1,12 @@
+# The Tech Devs
+
+Official portfolio website simulating macOS's GUI: http://thetechdevs.com
+
+Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
+
+![day](./public/screenshots/day.png)
+![night](./public/screenshots/night.png)
+
 <p align="center">
   <!-- <img src='https://avatars1.githubusercontent.com/u/64302236?s=200&v=4' height="100px" alt="logo" /> -->
   <img src='./TheTechDevsLogo.png' height="100px" alt="logo" />
@@ -26,6 +35,13 @@
 - React Native
 - Firebase
 - Hosting (cPanel, Github pages, Netlify, Firebase, Vercel, Heroku, etc.)
+
+## Credits
+
+- [macOS Big Sur](https://www.apple.com/in/macos/big-sur/)
+- [macOS Catalina](https://www.apple.com/bw/macos/catalina/)
+- [macOS Icon Gallery](https://www.macosicongallery.com/)
+- [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli)
 
 ### Members
 <p align="center">
