@@ -15,9 +15,9 @@ I'm also learning to build machine learning softwares and systems. I'm also lear
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com) / [xiaohan.zou@foxmail.com](mailto:xiaohan.zou@foxmail.com)
+- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com) / [thetechdevs@foxmail.com](mailto:thetechdevs@foxmail.com)
 - Github: [@Renovamen](https://github.com/Renovamen)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
+- Linkedin: [thetechdevs](https://www.linkedin.com/in/thetechdevs)
 - 知乎: [@Renovamen](https://www.zhihu.com/people/chao-neng-gui-su)
 - Blog: [zxh.io](https://zxh.io)
 

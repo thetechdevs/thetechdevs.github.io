@@ -1,9 +1,9 @@
 {
   "short_name": "playground-macos",
-  "name": "Xiaohan Zou's Portfolio",
+  "name": "The Tech Devs's Portfolio",
   "icons": [
     {
-      "src": "logo/favicon.svg",
+      "src": "logo/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
