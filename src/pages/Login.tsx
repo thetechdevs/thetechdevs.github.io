@@ -44,13 +44,14 @@ export default function Login(props: MacActions) {
       <div className="inline-block w-auto relative top-1/2 -mt-40">
         {/* Avatar */}
         <img
-          className="rounded-full w-24 h-24 my-0 mx-auto"
+          // className="rounded-full w-24 h-24 my-0 mx-auto"
+          className="w-24 h-24 my-0 mx-auto"
           src={user.avatar}
           alt="img"
         />
-        <div className="nightwind-prevent font-semibold text-xl mt-2 text-white">
+        {/* <div className="nightwind-prevent font-semibold text-xl mt-2 text-white">
           {user.name}
-        </div>
+        </div> */}
 
         {/* Password Input */}
         <div className="nightwind-prevent mx-auto grid grid-cols-5 w-44 h-8 mt-4 rounded-md bg-gray-300 backdrop-blur-2xl bg-opacity-50">

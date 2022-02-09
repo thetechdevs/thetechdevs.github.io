@@ -7,7 +7,7 @@ const websites: WebsitesData = {
       {
         id: "my-blog",
         title: "Blog",
-        img: "https://zxh.io/img/avatar.jpg",
+        img: "https://zxh.io/img/avatar.png",
         link: "https://zxh.io/",
         inner: true
       },
@@ -21,7 +21,7 @@ const websites: WebsitesData = {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https://www.linkedin.com/in/thetechdevs"
       },
       {
         id: "my-zhihu",
@@ -128,7 +128,7 @@ const websites: WebsitesData = {
       {
         id: "aideadline",
         title: "AI Deadlines",
-        img: "https://aideadlin.es/static/img/favicon.png",
+        img: "https://aideadlin.es/static/img/favicon.ico",
         link: "https://aideadlin.es/",
         inner: true
       },
